@@ -1,0 +1,10 @@
+﻿getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxClearTask
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxStopTask
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxStartTask
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxCreateTask
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxCreateAOVoltageChan
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxCreateAIVoltageChan
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxCfgSampClkTiming
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxGetExtendedErrorInfo
+getSensorinformation.obj : error LNK2001: unresolved external symbol DAQmxReadAnalogF64
+C:\Users\zs839395\source\repos\NI-DAQmx\x64\Release\NI-DAQmx.exe : fatal error LNK1120: 9 unresolved externals
